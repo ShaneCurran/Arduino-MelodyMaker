@@ -1,7 +1,7 @@
 // The pin the piezo speaker is connected to
 int speaker = 12;
 
-// The pin our beat lead is connected to
+// The pin our beat LED is connected to
 int ledPin = 13;
 
 // The number of notes in the melody
