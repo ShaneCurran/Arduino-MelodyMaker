@@ -1,5 +1,5 @@
 // The pin the piezo speaker is connected to
-int speaker = 9;
+int speaker = 12;
 
 // The pin our beat lead is connected to
 int ledPin = 13;
@@ -57,3 +57,4 @@ void loop() {
     delay(tempo / 2); 
   }
 }
+
